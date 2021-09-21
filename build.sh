@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # would be nice to update this automagically
-versionNumber=0.0.1
+versionNumber=0.0.2
 commitId=$(git rev-parse HEAD)
 
 build () {
