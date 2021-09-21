@@ -17,7 +17,7 @@ var commitId string = "none"
 // a list of the iptables table names that we care about, and abbreviations for the log-prefix
 var tableNames = map[string]string{
     "UBIOS_WAN_IN_USER":"WI",
-    "UBIOS_WAN_OUT_USER":"W0",
+    "UBIOS_WAN_OUT_USER":"WO",
     "UBIOS_WAN_LOCAL_USER":"WL",
     "UBIOS_LAN_IN_USER":"LI",
     "UBIOS_LAN_OUT_USER":"LO",
