@@ -60,7 +60,3 @@ It may be useful to view the output of this command as part of the syslog.  This
 ## Building
 
 `./build.sh`
-
-## Buy me a beer
-
-If you find this super useful and feel so inclined, https://www.buymeacoffee.com/slynn1324.  Otherwise, simply enjoy. 
